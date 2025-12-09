@@ -61,3 +61,5 @@ What You Will Find in This Repo
 My Goal
 
 Being a QA engineer with a strong testing logic and proficient in both manual and automation. By sharing my learning process and practice work here, I aim to make my progress visible and well-tracked.
+
+https://roadmap.sh/card/wide/69381d58fca8d72e73842649?variant=dark
